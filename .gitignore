@@ -6,6 +6,7 @@
 /.next
 /build
 /out
+coverage
 .vercel
 .env.*
 
